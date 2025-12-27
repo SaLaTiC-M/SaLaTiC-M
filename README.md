@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-I am Salavat, I want to become a specialist in Data Science and DevOps. 
-I am only a beginner programmer, but I will diligently learn everything new and welcome criticism. 
+I am Salavat, 
+Beginner specialist in Data Science and DevOps
+A beginner programmer eager to learn new things and open to constructive criticism.
 
 Fun facts about me: 
-1.I really love to sleep! 
-2.I don’t like it when people say you can’t do anything; everything is possible! 
-3.I am tall but muscular. 
-4.Also, I have experience as a machine and manipulator operator with programmable control! 
-Hobbies: Anime, Games, Advanced mathematics, Chess, Working out, and learning everything new!
+1I love sleeping! I believe that quality sleep is 50% of being effective at work.:battery:
+2.Every mistake is not a dead end, but a call to improve yourself.
+3.From lifting metal to lifting data. Still reaching new heights — literally & technically. P.s height 182:bangbang:
+4.2 years of industrial automation experience → applying systematic thinking to DevOps/Data:blowfish:
+Hobbies: Anime, Games:game_die:, Advanced mathematics, Chess	:chess_pawn:, Working out, and learning everything new!
 
 P.s I will keep updating my portfolio and post projects more often
 -->
